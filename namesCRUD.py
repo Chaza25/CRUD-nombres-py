@@ -76,4 +76,4 @@ while opcion != 6:
     print("Ingrese 1 para agregar una persona\nIngrese 2 para eliminar\nIngrese 3 para modificar\nIngrese 4 para buscar\nIngrese 5 para ver las listas")
     print()
     opcion = int(input("Ingrese una opcion del 1 al 5\nIngrese 6 para salir: "))
-    print()
+    print() 
